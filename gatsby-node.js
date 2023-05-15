@@ -56,34 +56,34 @@ exports.createPages = async ({ actions: { createPage, createRedirect }, graphql 
     })
   });
 
-  const result = await graphql(`
-    {
-      allPrismicBlog (sort: {last_publication_date: ASC}) {
-        nodes {
-          id
-          url
-        }
-      }
-    }
-  `)
-  const postsPerPage = 4
-  const blogs = result.data.allPrismicBlog.nodes
-  const numPages = Math.ceil(blogs.length / postsPerPage)
+  // const result = await graphql(`
+  //   {
+  //     allPrismicBlog (sort: {last_publication_date: ASC}) {
+  //       nodes {
+  //         id
+  //         url
+  //       }
+  //     }
+  //   }
+  // `)
+  // const postsPerPage = 4
+  // const blogs = result.data.allPrismicBlog.nodes
+  // const numPages = Math.ceil(blogs.length / postsPerPage)
 
 
-  // Create listing pages
-  Array.from({ length: numPages }).forEach((_, i) => {
-    createPage({
-      path: i === 0 ? `/blog` : `/blog/${i + 1}`,
-      component: path.resolve('./src/templates/blogs.js'),
-      context: {
-        limit: postsPerPage,
-        skip: i * postsPerPage,
-        numPages,
-        currentPage: i + 1,
-      },
-    })
-  })
+  // // Create listing pages
+  // Array.from({ length: numPages }).forEach((_, i) => {
+  //   createPage({
+  //     path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+  //     component: path.resolve('./src/templates/blogs.js'),
+  //     context: {
+  //       limit: postsPerPage,
+  //       skip: i * postsPerPage,
+  //       numPages,
+  //       currentPage: i + 1,
+  //     },
+  //   })
+  // })
 
   createRedirect({
     fromPath: `/shop/`,
