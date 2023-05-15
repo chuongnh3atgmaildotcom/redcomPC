@@ -56,8 +56,8 @@ const FaqPage = ({ data }) => {
 export const Head = ({ data }) => {
   return (
     <>
-      <title>{"Câu hỏi thường gặp | Sâm Shilla"}</title>
-      <meta name="description" content="Nhân sâm là gì và lợi ích của nó là gì? Samshilla cung cấp những loại nhân sâm nào? Bạn có giảm giá hoặc khuyến mại không? Đơn đặt hàng của tôi mất bao lâu để đến nơi?..." />
+      <title>{"Câu hỏi thường gặp | RedcomPC"}</title>
+      <meta name="description" content="RedcomPC cung cấp những mặt hàng nào? Bạn có giảm giá hoặc khuyến mại không? Đơn đặt hàng của tôi mất bao lâu để đến nơi?..." />
     </>
   );
 };

@@ -102,8 +102,8 @@ const SupportPage = (props) => {
 export const Head = ({ data }) => {
   return (
     <>
-      <title>{"Hướng dẫn | Sâm Shilla"}</title>
-      <meta name="description" content="Đặt hàng, giao hàng, thanh toán | Liên hệ | Sâm Shilla" />
+      <title>{"Hướng dẫn | redcomPC"}</title>
+      <meta name="description" content="Đặt hàng, giao hàng, thanh toán | Liên hệ | RedcomPC" />
     </>
   );
 };
