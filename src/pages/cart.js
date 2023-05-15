@@ -69,7 +69,7 @@ const CartPage = (props) => {
       method: 'POST',
       headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
       body: encode({
-        'form-name': 'samshilla-checkout-form',
+        'form-name': 'redcompc-checkout-form',
         'name': name,
         'address': address,
         'tel': tel,
@@ -148,13 +148,13 @@ const CartPage = (props) => {
           <div className={styles.summaryContainer} id="placeorder-area">
             <h3>Đặt hàng</h3>
             <form
-              name="samshilla-checkout-form"
+              name="redcompc-checkout-form"
               method="post"
               onSubmit={handleSubmit}
               data-netlify="true"
               netlify-honeypot="phone"
             >
-              <input type="hidden" name="form-name" value="samshilla-checkout-form" />
+              <input type="hidden" name="form-name" value="redcompc-checkout-form" />
               <div className="hidden">
                 <input type="tel" name="phone" />
                 <input type="text" name="cart-items" />
