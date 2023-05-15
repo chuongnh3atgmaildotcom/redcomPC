@@ -1,0 +1,10 @@
+hr {
+    opacity: 0.9;
+    background-color: var(--grey-placeholder);
+
+    border-width: 0;
+
+    width: 50%;
+
+    height: 1px;
+}

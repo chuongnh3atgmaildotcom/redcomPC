@@ -1,0 +1,51 @@
+{
+  "name": "redcomPC-gatsby-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Redcom PC",
+  "author": "chuongnh3@gmail.com",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop -p 8013",
+    "debug": "NODE_OPTIONS='--inspect' gatsby develop -H 0.0.0.0 -p 8013",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "format": "prettier --write \"{gatsby-*.js,src/**/*.js}\"",
+    "plop": "plop"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^4.5.15",
+    "@fontsource/noto-serif": "^4.5.11",
+    "@netlify/plugin-gatsby": "^3.5.0",
+    "@prismicio/react": "^2.5.1",
+    "cypress": "^12.3.0",
+    "gatsby": "^5.4.2",
+    "gatsby-plugin-advanced-sitemap": "2.0.0",
+    "gatsby-plugin-image": "^3.6.0",
+    "gatsby-plugin-manifest": "^5.4.0",
+    "gatsby-plugin-sharp": "^5.4.0",
+    "gatsby-source-filesystem": "^5.4.0",
+    "gatsby-source-prismic": "^5.2.10",
+    "gatsby-transformer-json": "^5.4.0",
+    "gatsby-transformer-sharp": "^5.4.0",
+    "markdown-to-jsx": "^7.1.9",
+    "netlify-plugin-submit-sitemap": "^0.4.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-helmet": "^6.1.0",
+    "react-live-chat-loader": "^2.8.1",
+    "react-slick": "^0.29.0",
+    "sharp": "^0.31.3",
+    "web-vitals": "^3.1.1"
+  },
+  "devDependencies": {
+    "gatsby-plugin-netlify": "^5.0.0",
+    "netlify-cli": "^12.9.1",
+    "plop": "^3.0.5",
+    "prettier": "^2.8.3"
+  }
+}

@@ -1,0 +1,53 @@
+.root {
+    padding: 50px 0px;
+    margin-bottom: 64px;
+    background-size: cover;
+    background-position: left; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+
+    display: flex;
+    align-items: center;
+}
+
+.content {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    text-shadow: 2px 0 var(--vien2), -2px 0 var(--vien2), 0 2px var(--vien2), 0 -2px var(--vien2),
+    1px 1px var(--vien2), -1px -1px var(--vien2), 1px -1px var(--vien2), -1px 1px var(--vien2);
+}
+
+.content h1.primarytext {
+    text-shadow: 2px 0 var(--vien1), -2px 0 var(--vien1), 0 2px var(--vien1), 0 -2px var(--vien1),
+    1px 1px var(--vien1), -1px -1px var(--vien1), 1px -1px var(--vien1), -1px 1px var(--vien1);
+}
+
+.content h1 {
+    font-size: 52px;
+    line-height: 62px;
+    font-weight: normal;
+}
+
+.subtitle {
+    font-size: 14px;
+    line-height: 17px;
+}
+
+@media (max-width: 800px) {
+    .root {
+        padding-left: 16px;
+        padding-right: 16px;
+        margin-bottom: 16px;
+    }
+
+    .hideSubtitleOnMobile {
+        display: none;
+    }
+
+    .content h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+}

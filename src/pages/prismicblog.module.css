@@ -1,0 +1,124 @@
+.root {
+    margin-top: 16px;
+}
+
+.root h1 {
+    /* font-size: 2.25rem; */
+    line-height: 2.5rem;
+    margin-bottom: 16px;
+}
+
+.root h3 {
+    /* font-size: 1.5rem; */
+    line-height: 2rem;
+    margin-bottom: 1.75rem;
+}
+
+.root h3 {
+    /* font-size: 1.5rem; */
+    line-height: 2rem;
+    margin-bottom: 1.75rem;
+}
+
+.root div {
+    padding: 1rem;
+}
+
+.root p {
+    margin-bottom: 1.75rem;
+}
+
+.root figure {
+    gap: 10px
+}
+
+.root figure p {
+    margin-bottom: 0.5rem;
+}
+
+.root ul {
+    padding-left: 1rem;
+    margin-bottom: 1.75rem;
+}
+
+.root li {
+    padding-left: 0.25rem;
+    list-style-type: disc;
+    margin-bottom: 0.25rem;
+}
+
+.root .blogLink,
+.root .date {
+    opacity: 0.9;
+    color: var(--grey-placeholder);
+}
+
+.root .date {
+    opacity: 0.9;
+    color: var(--grey-placeholder);
+    letter-spacing: -.05em;
+    font-style: italic;
+}
+
+.latestBlogs ul {
+    gap: 12px;
+}
+
+.latestBlogs h2,
+.latestBlogs h3 {
+    letter-spacing: -.05em;
+    margin-bottom: 0.75rem;
+}
+
+@media (min-width: 801px) {
+    .root div {
+        padding: 2rem 1rem;
+    }
+
+    .root h1, .root h2, .root h3 {
+        line-height: initial;
+    }
+
+    .root p {
+        /* font-size: 1.25rem; */
+    }
+    
+    .root ul {
+        /* font-size: 1.5rem; */
+    }
+
+    .root figure {
+        gap: 20px
+    }
+
+    .root li {
+        padding-left: 0.5rem;
+    }
+
+    .root ul {
+        padding-left: 1.5rem;
+    }
+
+    .latestBlogs h2,
+    .latestBlogs h3 {
+        letter-spacing: 0em;
+        margin-bottom: 1.75rem;
+    }
+}
+
+/* @import "./bounded.module.css"; */
+.root {
+    composes: max-w-3xl from "./bounded.module.css";
+    max-width: 48rem;
+}
+
+.root {
+    composes: w-full from "./bounded.module.css";
+    width: 100%
+}
+
+.root {
+    composes: mx-auto from "./bounded.module.css";
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,14 @@
+{
+    "name": "gatsby-transformer-json-child",
+    "version": "1.0.0",
+    "private": true,
+    "description": "add childimagesharp to transformed json node",
+    "author": "chuongnh3@gmail.com",
+    "keywords": [
+      "gatsby",
+      "transformer"
+    ],
+    "dependencies": {
+        "gatsby-source-filesystem": "^5.4.0"
+    }
+}

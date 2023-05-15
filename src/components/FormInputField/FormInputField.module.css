@@ -1,0 +1,90 @@
+.formField {
+    position: relative;
+    /* background-color: var(--standard-white); */
+}
+
+.label {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 8px;
+  }
+
+  .label span {
+    color: var(--sale);
+  }
+  
+  .textarea {
+    min-height: 150px;
+  }
+  
+  .input {
+    font-family: var(--standard-font);
+    letter-spacing: 0.4px;
+  }
+  
+  .formField input::placeholder {
+    color: var(--grey-placeholder);
+    font-size: 14px;
+  }
+  
+  .input.fieldRequired {
+    border: 1px solid var(--error) !important;
+  }
+  
+  .textarea.fieldRequired {
+    border: 1px solid var(--error) !important;
+  }
+  
+  .note {
+    font-size: 0.75rem;
+    color: var(--grey-close-icon);
+  }
+
+  .iconContainer {
+      position: absolute;
+      top: 50%;
+      transform: translate(0%, -50%);
+      right: 18px;
+      font-size: 24px;
+  }
+
+  .offsetIcon {
+    top: calc(50% + 16px);
+  }
+
+  .conditionalIconPadding {
+      padding-right: 38px !important;
+  }
+  
+  @media screen and (max-width: 550px) {
+    .formField {
+      margin-bottom: 15px;
+    }
+  }
+
+  @media (min-width: 901px) {
+    .formField {
+        display: flex;
+        align-items: baseline;
+    }
+
+    .formField label.label {
+        display: inline-flex;
+        width: 20%;
+        margin-right: 10px;
+    }
+    
+    
+    .formField input[type='text'], .formField input[type='email'], .formField input[type='number'], .formField input[type='tel'], .formField input[type='password'], .formField select {
+        display: inline-flex;
+        flex-grow: 1;
+    }
+
+    .iconContainer {
+        display: flex;
+        top: calc(50%);
+    }
+
+}
+  

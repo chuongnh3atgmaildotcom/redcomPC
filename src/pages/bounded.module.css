@@ -1,0 +1,11 @@
+.max-w-3xl {
+    /* let src/pages/prismicblog.module.css references this classname and overrides these style  */
+}
+
+.w-full {
+    /* let src/pages/prismicblog.module.css references this classname and overrides these style  */
+}
+
+.mx-auto {
+    /* let src/pages/prismicblog.module.css references this classname and overrides these style  */
+}

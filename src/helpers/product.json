@@ -1,0 +1,111 @@
+[
+    {
+        "productCode": "samshilla-nho-1",
+        "name": "Sâm ăn liền Shilla gói nhỏ (1 gói)",
+        "vendor": "công ty sản xuất hồng Sâm Cheongoin- 천고인홍삼",
+        "price": 99000,
+        "alt": "Sâm ăn liền Shilla gói nhỏ",
+        "image": "../../static/products/IMG-6394.jpg",
+        "colorOptions": [],
+        "sizeOptions": [],
+        "wishlist": true,
+        "tags": [
+            "Hong Sam Mat Ong"
+        ],
+        "gallery": [
+            "../../static/products/IMG-6394.jpg",
+            "../../static/products/IMG-6362.JPG"
+        ],
+        "description": "- Hồng sâm Shilla thái lát. Dùng hàng ngày có tác dụng bổ sung sức đề kháng, cải thiện các bệnh liên quan đến dạ dày\n\n- 🍯🌿Hồng sâm là nhân sâm đã được hấp và sấy khô theo quy trình nghiêm ngặt. Nhờ vậy mà hồng sâm có thể được lưu giữ lâu hơn mà vẫn bảo toàn được chất dinh dưỡng vốn có của mình.Ngoài ra, hồng sâm Shilla được tẩm với mật ong mang hương vị thơm ngon, ngọt dịu\n\n- Gói nhỏ tiện lợi, có thể mang theo sử dụng mọi lúc, mọi nơi 🎒",
+        "short_description": "Hồng sâm Shilla thái lát. 🎒 Gói nhỏ tiện lợi, có thể mang theo sử dụng mọi lúc, mọi nơi 🎒",
+        "hdsd": "-  Ăn trực tiếp \n\n- Thả vào ly rượu 🍶, trà tuỳ theo sở thích 🍸🍵",
+        "donggoi": "- 1 gói nhỏ gồm 6 lát sâm Shilla thái mỏng\n\n- Bảo quản Hồng Sâm ở nơi khô ráo, thoáng mát 🫙\n\nHồng sâm được hấp, sấy khô và bọc  chân không theo quy trình nghiêm ngặt. Vì vậy khi chưa sử dụng bạn chỉ cần bảo quản sản phẩm ở những nơi khô ráo, thoáng mát sạch sẽ và đặc biệt tránh ánh nắng trực tiếp vào.\n\n- Bảo quản Hồng Sâm trong tủ lạnh 🆒\n\nTrong trường hợp đang sử dụng, bạn lo ngại để hồng sâm bên ngoài sẽ làm mất đi các dưỡng chất thì có thể để Hồng Sâm vào tủ lạnh để bảo quản.",
+        "originalPrice": "",
+        "meta": ""
+    },
+    {
+        "productCode": "samshilla-to-1",
+        "name": "Sâm nguyên củ Shilla ",
+        "vendor": "công ty sản xuất hồng Sâm Cheongoin- 천고인홍삼",
+        "price": 199000,
+        "alt": "Sâm nguyên củ Shilla",
+        "image": "../../static/products/1cu.jpg",
+        "colorOptions": [],
+        "sizeOptions": [],
+        "wishlist": null,
+        "tags": [],
+        "gallery": [
+            "../../static/products/1cu.jpg",
+            "../../static/products/IMG-6360.JPG"
+        ],
+        "description": "- Hồng sâm shilla nguyên củ. Sản phẩm đã được tẩm mật ong, có thể ngâm trực tiếp với rượu uống tác dụng đẹp da, chống lão hoá, tăng cường sinh lực,… \n\n- 🍯🌿Hồng sâm là nhân sâm đã được hấp và sấy khô theo quy trình nghiêm ngặt. Nhờ vậy mà hồng sâm có thể được lưu giữ lâu hơn mà vẫn bảo toàn được chất dinh dưỡng vốn có của mình.Ngoài ra, hồng sâm Shilla được tẩm với mật ong mang hương vị thơm ngon, ngọt dịu\n\n- Dễ dàng chế biến món ăn kèm như cơm sâm , bánh sâm… 🍛",
+        "short_description": "1 củ nhân sâm nguyên gói. Dễ dàng chế biến món ăn kèm như cơm sâm , bánh sâm… 🍛",
+        "hdsd": "- Hấp và ăn trực tiếp\n\n- Ngâm rượu 🍶\n\n- Dễ dàng chế biến món ăn kèm như cơm sâm , bánh sâm… 🍛",
+        "donggoi": "- 1 củ nhân sâm nguyên gói.\n\n- Bảo quản Hồng Sâm ở nơi khô ráo, thoáng mát 🫙\n\nHồng sâm được hấp, sấy khô và bọc  chân không theo quy trình nghiêm ngặt. Vì vậy khi chưa sử dụng bạn chỉ cần bảo quản sản phẩm ở những nơi khô ráo, thoáng mát sạch sẽ và đặc biệt tránh ánh nắng trực tiếp vào.\n\n- Bảo quản Hồng Sâm trong tủ lạnh 🆒\n\nTrong trường hợp đang sử dụng, bạn lo ngại để hồng sâm bên ngoài sẽ làm mất đi các dưỡng chất thì có thể để Hồng Sâm vào tủ lạnh để bảo quản.",
+        "originalPrice": "",
+        "meta": ""
+    },
+    {
+        "productCode": "samshilla-set-taman",
+        "name": "Set quà Tâm An",
+        "vendor": "công ty sản xuất hồng Sâm Cheongoin- 천고인홍삼",
+        "price": 1889000,
+        "alt": "",
+        "image": "../../static/products/IMG_7208.JPG",
+        "colorOptions": [],
+        "sizeOptions": [],
+        "wishlist": null,
+        "tags": [],
+        "gallery": [
+            "../../static/products/IMG_7208.JPG"
+        ],
+        "description": "- 🍯🌿Hồng sâm là nhân sâm đã được hấp và sấy khô theo quy trình nghiêm ngặt. Nhờ vậy mà hồng sâm có thể được lưu giữ lâu hơn mà vẫn bảo toàn được chất dinh dưỡng vốn có của mình.Ngoài ra, hồng sâm Shilla được tẩm với mật ong mang hương vị thơm ngon, ngọt dịu\n\n-  💝 Hồng sâm được coi là loại thảo dược thượng hạng, có thể giúp tăng cường hệ miễn dịch và làm chậm quá trình lão hóa của cơ thể. Đây sẽ là set quà vô cùng thích hợp để thể hiện lòng hiếu thảo đối với ông bà, cha mẹ trong mọi dịp lễ tết  \n\n- 🎁 Set quà Tâm An gồm 10 gói sâm thái lát và 5 củ nguyên gói",
+        "short_description": "Set quà Tâm An gồm 10 gói sâm thái lát và 5 củ nguyên gói. 🎁 Đây sẽ là set quà vô cùng thích hợp để thể hiện lòng hiếu thảo đối với ông bà, cha mẹ trong mọi dịp lễ tết",
+        "hdsd": "- Hấp và ăn trực tiếp\n\n- Ngâm rượu 🍶\n\n- Dễ dàng chế biến món ăn kèm như cơm sâm , bánh sâm… 🍛",
+        "donggoi": "- 🎁 Set quà Tâm An gồm 10 gói sâm thái lát và 5 củ nguyên gói\n\n- Bảo quản Hồng Sâm ở nơi khô ráo, thoáng mát 🫙\n\nHồng sâm được hấp, sấy khô và bọc  chân không theo quy trình nghiêm ngặt. Vì vậy khi chưa sử dụng bạn chỉ cần bảo quản sản phẩm ở những nơi khô ráo, thoáng mát sạch sẽ và đặc biệt tránh ánh nắng trực tiếp vào.\n\n- Bảo quản Hồng Sâm trong tủ lạnh 🆒\n\nTrong trường hợp đang sử dụng, bạn lo ngại để hồng sâm bên ngoài sẽ làm mất đi các dưỡng chất thì có thể để Hồng Sâm vào tủ lạnh để bảo quản.",
+        "originalPrice": "",
+        "meta": ""
+    },
+    {
+        "productCode": "samshilla-set-maoluong",
+        "name": "Set quà Mao lương",
+        "vendor": "công ty sản xuất hồng Sâm Cheongoin- 천고인홍삼",
+        "price": 1000000,
+        "alt": "",
+        "image": "../../static/products/IMG_7210.JPG",
+        "colorOptions": [],
+        "sizeOptions": [],
+        "wishlist": null,
+        "tags": [],
+        "gallery": [
+            "../../static/products/IMG_7210.JPG"
+        ],
+        "description": "- 🍯🌿Hồng sâm là nhân sâm đã được hấp và sấy khô theo quy trình nghiêm ngặt. Nhờ vậy mà hồng sâm có thể được lưu giữ lâu hơn mà vẫn bảo toàn được chất dinh dưỡng vốn có của mình.Ngoài ra, hồng sâm Shilla được tẩm với mật ong mang hương vị thơm ngon, ngọt dịu\n\n-  💝 Hồng sâm được coi là loại thảo dược thượng hạng, có thể giúp tăng cường hệ miễn dịch và làm chậm quá trình lão hóa của cơ thể. Đây sẽ là set quà phù hợp biếu tặng bạn bè, người thân trong mọi dịp đặc biệt.Món quà mang giá trị sức khoẻ.\n\n- 🎁 Set quà Mao Lương gồm 5 gói sâm thái lát và 3 củ nguyên gói",
+        "short_description": "Set quà Mao Lương gồm 5 gói sâm thái lát và 3 củ nguyên gói. 🎁 Đây sẽ là set quà phù hợp biếu tặng bạn bè, người thân trong mọi dịp đặc biệt",
+        "hdsd": "- Hấp và ăn trực tiếp\n\n- Ngâm rượu 🍶\n\n- Dễ dàng chế biến món ăn kèm như cơm sâm , bánh sâm… 🍛",
+        "donggoi": "- 🎁 Set quà Mao Lương gồm 5 gói sâm thái lát và 3 củ nguyên gói\n\n- Bảo quản Hồng Sâm ở nơi khô ráo, thoáng mát 🫙\n\nHồng sâm được hấp, sấy khô và bọc  chân không theo quy trình nghiêm ngặt. Vì vậy khi chưa sử dụng bạn chỉ cần bảo quản sản phẩm ở những nơi khô ráo, thoáng mát sạch sẽ và đặc biệt tránh ánh nắng trực tiếp vào.\n\n- Bảo quản Hồng Sâm trong tủ lạnh 🆒\n\nTrong trường hợp đang sử dụng, bạn lo ngại để hồng sâm bên ngoài sẽ làm mất đi các dưỡng chất thì có thể để Hồng Sâm vào tủ lạnh để bảo quản.",
+        "originalPrice": "",
+        "meta": ""
+    },
+    {
+        "productCode": "samshilla-set-ziai",
+        "name": "Set quà Ziai ",
+        "vendor": "công ty sản xuất hồng Sâm Cheongoin- 천고인홍삼",
+        "price": 495000,
+        "alt": "",
+        "image": "../../static/products/IMG_7209.JPG",
+        "colorOptions": [],
+        "sizeOptions": [],
+        "wishlist": null,
+        "tags": [],
+        "gallery": [
+            "../../static/products/IMG_7209.JPG"
+        ],
+        "description": "- 🍯🌿Hồng sâm là nhân sâm đã được hấp và sấy khô theo quy trình nghiêm ngặt. Nhờ vậy mà hồng sâm có thể được lưu giữ lâu hơn mà vẫn bảo toàn được chất dinh dưỡng vốn có của mình.Ngoài ra, hồng sâm Shilla được tẩm với mật ong mang hương vị thơm ngon, ngọt dịu\n\n-  💝 Set quà Ziai mang ý nghĩa yêu bản thân, trong những dịp đặc biệt của bản thân. Bạn có thể tự tặng mình món hồng sâm tẩm mật ong tiện lợi.\n\n- 🎁 Set quà Ziai gồm 5 gói sâm thái lát",
+        "short_description": "Set quà Ziai gồm 5 gói sâm thái lát. 💝 Bạn có thể tự tặng mình món hồng sâm tẩm mật ong tiện lợi",
+        "hdsd": "- Hấp và ăn trực tiếp\n\n- Ngâm rượu 🍶\n\n- Dễ dàng chế biến món ăn kèm như cơm sâm , bánh sâm… 🍛",
+        "donggoi": "- 🎁 Set quà Ziai gồm 5 gói sâm thái lát\n\n- Bảo quản Hồng Sâm ở nơi khô ráo, thoáng mát 🫙\n\nHồng sâm được hấp, sấy khô và bọc  chân không theo quy trình nghiêm ngặt. Vì vậy khi chưa sử dụng bạn chỉ cần bảo quản sản phẩm ở những nơi khô ráo, thoáng mát sạch sẽ và đặc biệt tránh ánh nắng trực tiếp vào.\n\n- Bảo quản Hồng Sâm trong tủ lạnh 🆒\n\nTrong trường hợp đang sử dụng, bạn lo ngại để hồng sâm bên ngoài sẽ làm mất đi các dưỡng chất thì có thể để Hồng Sâm vào tủ lạnh để bảo quản.",
+        "originalPrice": "",
+        "meta": ""
+    }
+]
